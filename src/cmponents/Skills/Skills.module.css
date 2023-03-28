@@ -1,0 +1,13 @@
+.skillsBlock {
+    background-color: khaki;
+    height: 100vh;
+}
+
+.skillsContainer {
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.skills {
+
+}
