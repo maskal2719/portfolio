@@ -1,0 +1,22 @@
+.contactBlock {
+    background-color: saddlebrown;
+    height: 100vh;
+}
+.contactContainer {
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.contact {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid;
+    flex-wrap: wrap;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

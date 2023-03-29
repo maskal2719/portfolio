@@ -1,3 +1,8 @@
+.projectsBlock {
+    background-color: navajowhite;
+    height: 100vh;
+}
+
 .skillsContainer {
     justify-content: flex-start;
     flex-direction: column;
@@ -12,7 +17,3 @@
     flex-wrap: wrap;
 }
 
-.projectsBlock {
-    background-color: navajowhite;
-    height: 100vh;
-}

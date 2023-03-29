@@ -3,7 +3,7 @@
     flex-direction: column;
     align-items: flex-start;
     border: 1px solid;
-    width: 650px;
+    width: 550px;
     background-color: #c1baea;
 }
 
@@ -12,7 +12,6 @@
     align-items: center;
     justify-content: center;
     width: 100%;
-    height: 350px;
     background-color: indianred;
 }
 
