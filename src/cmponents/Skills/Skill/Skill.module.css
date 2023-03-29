@@ -5,6 +5,8 @@
     border: 1px solid;
     width: 250px;
     background-color: #c1baea;
+    padding: 20px;
+    box-sizing: border-box;
 }
 
 .icon {

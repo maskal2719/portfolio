@@ -7,7 +7,7 @@ import {Project} from "./Project/Project";
 export const Projects = () => {
     return (
         <div className={style.projectsBlock}>
-            <div className={`${style.skillsContainer} ${styleContainer.container}`}>
+            <div className={`${style.projectsContainer} ${styleContainer.container}`}>
                 <h2>My Projects</h2>
                 <div className={style.projects}>
                     <Project projectName={'TODOLIST'} description={'any description'}/>

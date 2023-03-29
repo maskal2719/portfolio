@@ -3,7 +3,7 @@
     height: 100vh;
 }
 
-.skillsContainer {
+.projectsContainer {
     justify-content: flex-start;
     flex-direction: column;
 }

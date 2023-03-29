@@ -7,11 +7,12 @@
     background-color: #c1baea;
 }
 
-.img {
+.imgContainer {
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100%;
+    height: 400px;
     background-color: indianred;
 }
 
@@ -23,5 +24,13 @@
 }
 
 .viewBtn {
+    background-color: #17f396;
+    height: 40px;
+    width: 150px;
+    text-align: center;
+}
 
+a {
+    text-decoration: none;
+    color: green;
 }
