@@ -1,0 +1,18 @@
+.skillsContainer {
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.projects {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid;
+    flex-wrap: wrap;
+}
+
+.projectsBlock {
+    background-color: navajowhite;
+    height: 100vh;
+}
