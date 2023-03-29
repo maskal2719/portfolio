@@ -1,0 +1,25 @@
+.footerBlock {
+    background-color: teal;
+    height: 100vh;
+}
+
+.footerContainer {
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.links {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid;
+    flex-wrap: wrap;
+}
+
+.link {
+    height: 50px;
+    width: 50px;
+    border: 1px solid;
+    background-color: green;
+}
