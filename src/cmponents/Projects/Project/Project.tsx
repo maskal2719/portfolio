@@ -11,7 +11,7 @@ export const Project:React.FC<ProjectPropsType> = ({projectName, description, im
     return (
         <div className={style.project}>
             <div className={style.img}>
-                <button>View</button>
+                <button className={style.viewBtn}>View</button>
             </div>
             <h3 className={style.projectName}>{projectName}</h3>
             <div className={style.description}>
