@@ -1,15 +1,43 @@
 .mainBlock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 100vh;
     background-color: #1f2235;
 }
 
 .text {
     width: 300px;
-    background-color: cornsilk;
 }
 
 .photo {
     width: 300px;
     height: 400px;
-    background-color: cornsilk;
+}
+
+.topTitle {
+    font-family: "Hanken Grotesk", sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+    color: #ffc576;
+    margin: 0 0 15px 0;
+}
+
+.title {
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 1px;
+    font-size: 100px;
+    line-height: 100px;
+    color: #ffffff;
+    margin: 10px 0 45px 0;
+    text-align: left;
+}
+
+.bottomTitle {
+    font-family: "Hanken Grotesk", sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    color: #ffffff;
+    text-align: left;
+    margin: 0 0 15px;
 }

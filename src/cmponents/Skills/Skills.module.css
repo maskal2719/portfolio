@@ -10,7 +10,7 @@
 .skills {
     width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     border: 1px solid;
     flex-wrap: wrap;

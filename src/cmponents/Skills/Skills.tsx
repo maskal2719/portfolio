@@ -3,6 +3,7 @@ import style from './Skills.module.css'
 import styleContainer from '../../common/styles/Container.module.css'
 import {Skill} from "./Skill/Skill";
 import {Title} from "../../common/components/Title/Title";
+import {skillsData} from "../../data/icons";
 
 export const Skills = () => {
     return (
@@ -10,9 +11,9 @@ export const Skills = () => {
             <div className={`${style.skillsContainer} ${styleContainer.container}`}>
                 <Title title={'Skills'}/>
                 <div className={style.skills}>
-                    <Skill skillName={'react'} description={'any description'}/>
-                    <Skill skillName={'angular'} description={'any description'}/>
-                    <Skill skillName={'type script'} description={'any description'}/>
+                    {
+                        skillsData.map((el, index) => <Skill icon={el.path} alt={el.alt} key={index}/>)
+                    }
                 </div>
             </div>
         </div>
