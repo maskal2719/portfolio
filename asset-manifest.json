@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bb671686.css",
+    "main.js": "/portfolio/static/js/main.cff2b4ec.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/socialNetwork.jpg": "/portfolio/static/media/socialNetwork.32aba0d0ca50a5e9c13b.jpg",
+    "static/media/programmer.png": "/portfolio/static/media/programmer.94dcf0585a2ed62bec2a.png",
+    "static/media/todo.jpg": "/portfolio/static/media/todo.60b182c6fda1b1b80f50.jpg",
+    "static/media/icons8-instagram.svg": "/portfolio/static/media/icons8-instagram.fad01b69ec584ef2699e40a358fb0271.svg",
+    "static/media/sass.svg": "/portfolio/static/media/sass.adabbf1d140e2208a6fcc28dcc17a912.svg",
+    "static/media/react-js-icon.svg": "/portfolio/static/media/react-js-icon.4ee8d0003d0f7f9ccea03ac4aa13fb99.svg",
+    "static/media/typescript.svg": "/portfolio/static/media/typescript.b0c6f67eed5b6e38d97f2e9255cd7d82.svg",
+    "static/media/redux.svg": "/portfolio/static/media/redux.ee1c2f036b31cebff4331b21b171b9d6.svg",
+    "static/media/javascript.svg": "/portfolio/static/media/javascript.1cd8594bc4c76892a4c0a0548682f291.svg",
+    "static/media/icons8-github.svg": "/portfolio/static/media/icons8-github.507808f216088083d1fbc2036e9cb33c.svg",
+    "static/media/git.svg": "/portfolio/static/media/git.f16db8e1897edd6454f72110a414a8d7.svg",
+    "static/media/material-ui.svg": "/portfolio/static/media/material-ui.de235eb5663bf41a7f1b93ab53a3bcbd.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/icons8-vk-circled.svg": "/portfolio/static/media/icons8-vk-circled.96a68ca69148a47208700ea41c50ef9f.svg",
+    "static/media/icons8-telegram-app.svg": "/portfolio/static/media/icons8-telegram-app.0d009c1e7da4cfe9466ce01c1ec24a65.svg",
+    "static/media/css3.svg": "/portfolio/static/media/css3.6b337c5a7650a4b5ca5019592799917a.svg",
+    "static/media/html5.svg": "/portfolio/static/media/html5.09e6043f9cf44850f7ecbaad9a809ad1.svg",
+    "static/media/icons8-linkedin.svg": "/portfolio/static/media/icons8-linkedin.ecadf8ce2ab9f31dd0278e1b5c8cc7ca.svg",
+    "static/media/axios.svg": "/portfolio/static/media/axios.6d170f64a4a89ba89dd79fb56a486bbd.svg",
+    "main.bb671686.css.map": "/portfolio/static/css/main.bb671686.css.map",
+    "main.cff2b4ec.js.map": "/portfolio/static/js/main.cff2b4ec.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb671686.css",
+    "static/js/main.cff2b4ec.js"
+  ]
+}
