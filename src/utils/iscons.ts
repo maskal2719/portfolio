@@ -8,6 +8,11 @@ import materialUiIcon from '../assets/svg/material-ui.svg'
 import reduxIcon from '../assets/svg/redux.svg'
 import sassIcon from '../assets/svg/sass.svg'
 import typescriptIcon from '../assets/svg/typescript.svg'
+import gitSocial from '../assets/svg/social/icons8-github.svg'
+import vkSocial from '../assets/svg/social/icons8-vk-circled.svg'
+import linkedinSocial from '../assets/svg/social/icons8-linkedin.svg'
+import instaSocial from '../assets/svg/social/icons8-instagram.svg'
+import telegaSocial from '../assets/svg/social/icons8-telegram-app.svg'
 
 export {
     reactIcon,
@@ -19,5 +24,10 @@ export {
     gitIcon,
     css3Icon,
     axiosIcon,
-    typescriptIcon
+    typescriptIcon,
+    gitSocial,
+    vkSocial,
+    linkedinSocial,
+    instaSocial,
+    telegaSocial
 }

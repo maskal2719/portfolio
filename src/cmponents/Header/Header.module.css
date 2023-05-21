@@ -2,16 +2,37 @@
     height: 80px;
     background-color: #313552;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
 }
 
 .header a {
     color: #fff;
     cursor: pointer;
+    line-height: 30px;
+    font-weight: 600;
+    font-size: 14px;
+    position: relative;
+    padding: 15px 0;
+    text-transform: uppercase;
+    word-wrap: break-word;
+    font-family: 'Hanken Grotesk', sans-serif;
 }
 
-.header a:hover {
-    color: #20c997;
+.header a:after {
+    display: block;
+    position: absolute;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: #FFC576;;
+    content: "";
+    transition: width 0.3s ease-out;
+}
+
+.header a:hover:after,
+.header a:focus:after {
+    color: #FFC576;
     transition: all .2s ease;
+    width: 100%;
 }

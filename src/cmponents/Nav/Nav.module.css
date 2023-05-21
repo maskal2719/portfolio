@@ -1,6 +1,10 @@
 .nav {
-    border: 1px solid;
     width: 300px;
     display: flex;
     justify-content: space-evenly;
+    line-height: 30px;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 14px;
+    gap: 20px;
 }

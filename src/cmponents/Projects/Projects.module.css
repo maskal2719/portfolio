@@ -12,13 +12,12 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border: 1px solid;
     flex-wrap: wrap;
     gap: 30px;
 }
 
 
-@media screen and (max-width: 1308px) {
+@media screen and (max-width: 1587px) {
     .projects {
         justify-content: center;
     }
