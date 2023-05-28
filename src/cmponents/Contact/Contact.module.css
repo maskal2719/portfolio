@@ -56,3 +56,9 @@
     overflow: hidden;
     transition: 0.5s;
 }
+
+@media screen and (max-width: 907px) {
+    .contact {
+        width: 100%;
+    }
+}

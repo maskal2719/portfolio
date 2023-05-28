@@ -54,4 +54,28 @@ export const skillsData: Array<SkillsDataType> = [
         path: typescriptIcon,
         alt: 'TypeScript'
     },
+    {
+        path: typescriptIcon,
+        alt: 'TypeScript'
+    },
+    {
+        path: typescriptIcon,
+        alt: 'TypeScript'
+    },
+    {
+        path: typescriptIcon,
+        alt: 'TypeScript'
+    },
+    {
+        path: typescriptIcon,
+        alt: 'TypeScript'
+    },
+    {
+        path: typescriptIcon,
+        alt: 'TypeScript'
+    },
+    {
+        path: typescriptIcon,
+        alt: 'TypeScript'
+    },
 ]

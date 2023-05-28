@@ -13,3 +13,9 @@
 .title h2 {
     margin: 0;
 }
+
+@media screen and (max-width: 907px) {
+    .title {
+        font-size: 1.5rem;
+    }
+}
